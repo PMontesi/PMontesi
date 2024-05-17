@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 About Me
 Comunicador audiovisual en transición hacia el mundo de la tecnología. 
@@ -24,7 +25,7 @@ Mi objetivo es combinar mi experiencia en comunicación audiovisual con las nuev
 Conecta Conmigo
 Estoy siempre abierto a nuevas oportunidades y colaboraciones. Si compartes una pasión por la tecnología, la creatividad y la innovación, ¡me encantaría conectar contigo!
 
-    LinkedIn: www.linkedin.com/in/pablo-montesinos-063a111aa
+    LinkedIn: www.linkedin.com/in/pablo-montesinos-nicolas
     Correo Electrónico: montesinos.nicolas96@gmail.com
 
 
